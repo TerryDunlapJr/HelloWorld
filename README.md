@@ -6,3 +6,5 @@ If you're familiar with binwalk, then you already have an idea of what we do. We
 
 ## Tactical Network Soutions
 I co-founded TNS in 2007 to offer offensive cyber capabilities to the US military and intelliegnce community. Before ReFirm Labs, we used our expertise in reverse engineering firmware to discover vulnerabiities that could be weaponized for our customers.
+
+![headshot](profilePic.png)
